@@ -1,0 +1,21 @@
+/* style.css */
+
+body {
+    background: 
+    linear-gradient(rgb(95, 245, 245), transparent),
+    linear-gradient(to top left, rgb(2, 2, 80), transparent),
+    linear-gradient(to top right, black, transparent);
+    background-blend-mode: screen;
+    width: 100vh;
+    height: 100vh;
+}
+ /*h1, h2, p {
+   margin: auto; (unnecessary)
+   text-align: center;
+}*/
+.testheading {
+    width: 100%;
+    margin-left: 50%;
+    margin-right: auto;
+    text-align: center;
+}
