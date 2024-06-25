@@ -1,1 +1,1 @@
-This is a test to see if I can successfully "clone" (Idk the right verb-is it clone or is that only) a local repo to Github.
+This is a test, only a test. Rough draft experimentation. Hopefully a spawn-point for projects!
